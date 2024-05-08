@@ -139,5 +139,6 @@ CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
     'http://master--hasingedu.netlify.app',  # Add the URL of your frontend application here
-    'http://localhost:4200'
+    'http://localhost:4200',
+    'https://pruebas-frontend.vercel.app/',
 )
